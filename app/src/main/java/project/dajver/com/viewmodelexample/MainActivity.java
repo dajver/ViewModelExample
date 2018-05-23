@@ -48,6 +48,4 @@ public class MainActivity extends AppCompatActivity {
     public void displayForTeamB(int v) {
         textB.setText(String.valueOf(v));
     }
-
-
 }
